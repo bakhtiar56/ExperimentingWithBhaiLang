@@ -1,0 +1,17 @@
+ye tou kisi kaam ka nahin hai
+hi bhai
+
+  bhai ye hai b="Bakhtiar Rasheed";
+  bhai ye hai num=11;
+  bhai ye hai num2=112;
+  agar bhai (num2>num){
+      bol bhai "Num2 tou num se bara nikla";
+  }
+  bol bhai "Hello bhai";
+  bol bhai "World ko bhai ki taraf se Hello!";
+
+  jab tak bhai (num>0){
+      bol bhai "num ",num;
+      num-=1;
+  }
+bye bhai
