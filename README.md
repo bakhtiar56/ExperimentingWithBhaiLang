@@ -1,2 +1,2 @@
 # ExperimentingWithBhaiLang
-Trying out a new toy programming language.
+Trying out a new toy programming language, BhaiLang
